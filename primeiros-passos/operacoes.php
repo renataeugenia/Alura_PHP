@@ -1,13 +1,13 @@
 <?php
-//$idade = 47;
+$idade = 47;
 
-//$idadeDaqui10Anos = $idade + 10;
+$idadeDaqui10Anos = $idade + 10;
 
-//echo $idadeDaqui10Anos;
+echo $idadeDaqui10Anos;
 
-//$idadeHa5Anos = $idade - 5;
+$idadeHa5Anos = $idade - 5;
 
-//echo $idadeHa5Anos;
+echo $idadeHa5Anos;
 
 $soma = 2 + 3;
 $subtrai = 5 - 2;
